@@ -1,0 +1,25 @@
+h1{
+    color:darkgreen;
+}
+
+h2{
+    color:greenyellow;
+    border-bottom: lightgray 2px solid;
+}
+
+h4{
+    color: chocolate;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(0, 0, 0);
+    text-align:justify;
+    padding-top: 20px;
+    padding-left: 2%;
+    padding-right: 60px;
+    margin: 20px;
+}
+div.recuadro {
+    border: lightgray 3px solid;
+}
