@@ -1,0 +1,36 @@
+h1{
+    color:darkgreen;
+    margin: 10px;
+    margin-left: 150px;
+    margin-right: 5px;
+    padding: 7px;
+}
+
+h2{
+    color:greenyellow;
+    border-bottom: lightgray 2px solid;
+}
+
+h4{
+    color: chocolate;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(0, 0, 0);
+    text-align:justify;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 900px;
+}
+div.recuadro {
+    border: lightgray 3px solid;
+    margin: 10px;
+    margin-left: 150px;
+    margin-right: 5px;
+    padding: 7px;
+}
+div.lateral {
+    float:left;
+}
