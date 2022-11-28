@@ -39,7 +39,8 @@ div.recuadro {
     background-color: #ffffff;
 }
 
-div.lateral {
+div.lateral { 
+    
     float:left;
 }
 .btn {
