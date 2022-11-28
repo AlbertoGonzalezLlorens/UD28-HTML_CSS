@@ -23,14 +23,22 @@ body{
     padding-left: 1%;
     padding-right: 1%;
     width: 900px;
+    border-radius: 25px;
 }
+
 div.recuadro {
     border: lightgray 3px solid;
     margin: 10px;
     margin-left: 150px;
     margin-right: 5px;
     padding: 7px;
+    box-shadow: 0px 0px 25px gray inset;
 }
+.tapar{
+    
+    background-color: #ffffff;
+}
+
 div.lateral {
     float:left;
 }
@@ -41,6 +49,7 @@ div.lateral {
     margin: 3px;
     background-color: #bbda6f;
     transition-duration: 0.4s;
+    background: linear-gradient(#ffffff, #bbda6f);
 }
 .btn:hover {
     background-color: #4316bf;
@@ -53,9 +62,17 @@ div.lateral {
     margin: 3px;
     background-color: #d7af1ecb;
     transition-duration: 0.4s;
+    background: linear-gradient(#ffffff, #d7af1ecb)
 }
 .btn1:hover {
     background-color: #4316bf;
     color: white;
 }
 
+div.piepagina{
+    color:grey;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size:0.35cm;
+}
